@@ -3,11 +3,11 @@ import Logo from '../../../components/Logo/Logo';
 
 const Footer = () => {
       return (
-            <footer className="footer footer-horizontal footer-center  text-primary-content p-10">
+            <footer className="footer footer-horizontal footer-center  text-primary-content bg-primary p-10">
   <aside>
       <Logo></Logo>
     <p className="font-bold">
-      ACME Industries Ltd.
+      ZapShift
       <br />
       Providing reliable tech since 1992
     </p>
